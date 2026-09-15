@@ -1,1 +1,1 @@
-"""Core modules for QuizMaster application."""
+"""UI modules and views for QuizMaster application."""
