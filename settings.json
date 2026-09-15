@@ -1,0 +1,9 @@
+{
+    "theme": "Dark",
+    "sound_effects": true,
+    "default_timer": 30,
+    "shuffle_questions": true,
+    "shuffle_answers": true,
+    "ui_scale": "Normal",
+    "player_name": "IntegrationTester"
+}

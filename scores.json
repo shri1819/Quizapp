@@ -1,0 +1,98 @@
+{
+    "high_scores": [
+        {
+            "player_name": "IntegrationTester",
+            "score": 75,
+            "percentage": 33.3,
+            "correct": 5,
+            "incorrect": 10,
+            "unanswered": 0,
+            "total_questions": 15,
+            "max_streak": 2,
+            "category": "All Categories",
+            "difficulty": "Mixed",
+            "mode": "Speed Challenge",
+            "time_taken_seconds": 116,
+            "timestamp": 1788147022.1071746,
+            "date": "Aug 31, 2026"
+        },
+        {
+            "player_name": "IntegrationTester",
+            "score": 25,
+            "percentage": 40.0,
+            "correct": 2,
+            "incorrect": 3,
+            "unanswered": 0,
+            "total_questions": 5,
+            "max_streak": 1,
+            "category": "All Categories",
+            "difficulty": "Mixed",
+            "mode": "Classic",
+            "time_taken_seconds": 1,
+            "timestamp": 1788146804.5592484,
+            "date": "Aug 31, 2026"
+        },
+        {
+            "player_name": "IntegrationTester",
+            "score": 0,
+            "percentage": 0.0,
+            "correct": 0,
+            "incorrect": 5,
+            "unanswered": 0,
+            "total_questions": 5,
+            "max_streak": 0,
+            "category": "All Categories",
+            "difficulty": "Mixed",
+            "mode": "Classic",
+            "time_taken_seconds": 1,
+            "timestamp": 1788146821.5538833,
+            "date": "Aug 31, 2026"
+        },
+        {
+            "player_name": "IntegrationTester",
+            "score": 0,
+            "percentage": 0.0,
+            "correct": 0,
+            "incorrect": 5,
+            "unanswered": 0,
+            "total_questions": 5,
+            "max_streak": 0,
+            "category": "All Categories",
+            "difficulty": "Mixed",
+            "mode": "Classic",
+            "time_taken_seconds": 1,
+            "timestamp": 1788146837.714249,
+            "date": "Aug 31, 2026"
+        },
+        {
+            "player_name": "IntegrationTester",
+            "score": 0,
+            "percentage": 0.0,
+            "correct": 0,
+            "incorrect": 5,
+            "unanswered": 0,
+            "total_questions": 5,
+            "max_streak": 0,
+            "category": "All Categories",
+            "difficulty": "Hard",
+            "mode": "Random Challenge",
+            "time_taken_seconds": 30,
+            "timestamp": 1788147074.0358489,
+            "date": "Aug 31, 2026"
+        }
+    ],
+    "statistics": {
+        "total_quizzes": 5,
+        "total_questions_answered": 35,
+        "correct_answers": 7,
+        "incorrect_answers": 28,
+        "unanswered": 0,
+        "best_score": 75,
+        "best_percentage": 40.0,
+        "best_streak": 2,
+        "total_time_seconds": 149,
+        "category_counts": {
+            "All Categories": 5
+        }
+    }
+}

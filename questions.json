@@ -1,0 +1,1547 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital city of Japan?",
+        "category": "Geography",
+        "difficulty": "Easy",
+        "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+        "answer": "Tokyo",
+        "explanation": "Tokyo has been the capital and the largest metropolis of Japan since 1868."
+    },
+    {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "category": "Space",
+        "difficulty": "Easy",
+        "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+        "answer": "Mars",
+        "explanation": "Mars appears reddish because of widespread iron oxide (rust) on its surface."
+    },
+    {
+        "id": 3,
+        "question": "Which chemical element has the symbol 'Au'?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Silver", "Gold", "Copper", "Aluminum"],
+        "answer": "Gold",
+        "explanation": "The symbol 'Au' comes from the Latin word 'aurum', meaning shining dawn or gold."
+    },
+    {
+        "id": 4,
+        "question": "Who painted the Mona Lisa?",
+        "category": "Entertainment",
+        "difficulty": "Easy",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+        "answer": "Leonardo da Vinci",
+        "explanation": "Leonardo da Vinci created the masterpiece Mona Lisa in Florence during the Italian Renaissance."
+    },
+    {
+        "id": 5,
+        "question": "In which year did World War II end?",
+        "category": "History",
+        "difficulty": "Easy",
+        "options": ["1943", "1945", "1948", "1950"],
+        "answer": "1945",
+        "explanation": "World War II concluded in 1945 following the surrender of Germany in May and Japan in September."
+    },
+    {
+        "id": 6,
+        "question": "What is the largest ocean on Earth?",
+        "category": "Geography",
+        "difficulty": "Easy",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean",
+        "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface, making it the largest ocean."
+    },
+    {
+        "id": 7,
+        "question": "Which programming language was created by Guido van Rossum and released in 1991?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Python", "Java", "C++", "Ruby"],
+        "answer": "Python",
+        "explanation": "Guido van Rossum developed Python and released version 0.9.0 in February 1991."
+    },
+    {
+        "id": 8,
+        "question": "What is the hardest natural substance on Earth?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "answer": "Diamond",
+        "explanation": "Diamond is carbon arranged in a tetrahedral crystal lattice, ranking 10 on the Mohs scale of mineral hardness."
+    },
+    {
+        "id": 9,
+        "question": "How many players are on the field for one soccer team during a standard match?",
+        "category": "Sports",
+        "difficulty": "Easy",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11",
+        "explanation": "A standard football (soccer) team consists of 11 players including 1 goalkeeper."
+    },
+    {
+        "id": 10,
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "category": "Literature",
+        "difficulty": "Easy",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "answer": "William Shakespeare",
+        "explanation": "William Shakespeare wrote Romeo and Juliet early in his career around 1595."
+    },
+    {
+        "id": 11,
+        "question": "What does 'CPU' stand for in computer hardware?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Central Processing Unit", "Computer Power Unit", "Core Program Utility", "Central Performance Unit"],
+        "answer": "Central Processing Unit",
+        "explanation": "The CPU (Central Processing Unit) is the electronic circuitry that executes instructions comprising a computer program."
+    },
+    {
+        "id": 12,
+        "question": "What is the primary gas that makes up the Earth's atmosphere?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "answer": "Nitrogen",
+        "explanation": "Nitrogen accounts for approximately 78% of Earth's atmosphere, with oxygen at about 21%."
+    },
+    {
+        "id": 13,
+        "question": "Which animal is known as the largest mammal in the world?",
+        "category": "Nature",
+        "difficulty": "Easy",
+        "options": ["African Elephant", "Blue Whale", "Sperm Whale", "Giraffe"],
+        "answer": "Blue Whale",
+        "explanation": "The Blue Whale can reach lengths of up to 100 feet (30 meters) and weights of up to 200 tons."
+    },
+    {
+        "id": 14,
+        "question": "What is the value of Pi rounded to two decimal places?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["3.12", "3.14", "3.16", "3.18"],
+        "answer": "3.14",
+        "explanation": "Pi is the ratio of a circle's circumference to its diameter and is approximately 3.14159, or 3.14."
+    },
+    {
+        "id": 15,
+        "question": "What year was the original iPhone first announced by Steve Jobs?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["2005", "2007", "2009", "2010"],
+        "answer": "2007",
+        "explanation": "Steve Jobs introduced the first iPhone on January 9, 2007 at the Macworld convention."
+    },
+    {
+        "id": 16,
+        "question": "Which country is famous for the ancient pyramids of Giza?",
+        "category": "History",
+        "difficulty": "Easy",
+        "options": ["Sudan", "Egypt", "Mexico", "Peru"],
+        "answer": "Egypt",
+        "explanation": "The Great Pyramid of Giza is located near Cairo, Egypt, and was built for the Pharaoh Khufu."
+    },
+    {
+        "id": 17,
+        "question": "What is the national currency of the United Kingdom?",
+        "category": "General Knowledge",
+        "difficulty": "Easy",
+        "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+        "answer": "Pound Sterling",
+        "explanation": "The Pound Sterling (GBP) is the official currency of the United Kingdom and its territories."
+    },
+    {
+        "id": 18,
+        "question": "What is the nearest star to planet Earth?",
+        "category": "Space",
+        "difficulty": "Easy",
+        "options": ["Alpha Centauri", "Sirius", "The Sun", "Proxima Centauri"],
+        "answer": "The Sun",
+        "explanation": "The Sun is our solar system's central star, located about 93 million miles (150 million km) from Earth."
+    },
+    {
+        "id": 19,
+        "question": "How many continents are there on Earth?",
+        "category": "Geography",
+        "difficulty": "Easy",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7",
+        "explanation": "The seven standard continents are Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+    },
+    {
+        "id": 20,
+        "question": "Which organ in the human body is responsible for pumping blood?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Lungs", "Liver", "Heart", "Kidneys"],
+        "answer": "Heart",
+        "explanation": "The heart is a muscular organ that pumps blood through the circulatory system to deliver oxygen and nutrients."
+    },
+    {
+        "id": 21,
+        "question": "Which country won the FIFA Men's World Cup in 2022?",
+        "category": "Sports",
+        "difficulty": "Easy",
+        "options": ["France", "Brazil", "Argentina", "Croatia"],
+        "answer": "Argentina",
+        "explanation": "Argentina defeated France in a penalty shootout in Qatar to win the 2022 FIFA World Cup."
+    },
+    {
+        "id": 22,
+        "question": "What is the world's tallest land animal?",
+        "category": "Nature",
+        "difficulty": "Easy",
+        "options": ["Elephant", "Giraffe", "Ostrich", "Camel"],
+        "answer": "Giraffe",
+        "explanation": "Adult male giraffes can grow up to 18-19 feet (5.5-5.8 meters) tall."
+    },
+    {
+        "id": 23,
+        "question": "In mathematics, what do you call an angle that is less than 90 degrees?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["Obtuse angle", "Right angle", "Acute angle", "Straight angle"],
+        "answer": "Acute angle",
+        "explanation": "An acute angle measures greater than 0 degrees and strictly less than 90 degrees."
+    },
+    {
+        "id": 24,
+        "question": "What does 'HTTP' stand for in web addresses?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["HyperText Transfer Protocol", "High Speed Text Transmission Protocol", "Hyperlink Text Transmission Page", "Host Transport Text Protocol"],
+        "answer": "HyperText Transfer Protocol",
+        "explanation": "HTTP is the foundational protocol used by the World Wide Web for transferring hypermedia documents."
+    },
+    {
+        "id": 25,
+        "question": "Who was the first President of the United States?",
+        "category": "History",
+        "difficulty": "Easy",
+        "options": ["Thomas Jefferson", "John Adams", "Benjamin Franklin", "George Washington"],
+        "answer": "George Washington",
+        "explanation": "George Washington served as the first U.S. president from 1789 to 1797."
+    },
+    {
+        "id": 26,
+        "question": "What is the official language of Brazil?",
+        "category": "General Knowledge",
+        "difficulty": "Easy",
+        "options": ["Spanish", "Portuguese", "French", "English"],
+        "answer": "Portuguese",
+        "explanation": "Portuguese is the official and dominant language of Brazil due to historical colonization by Portugal."
+    },
+    {
+        "id": 27,
+        "question": "Which fictional detective resides at 221B Baker Street?",
+        "category": "Literature",
+        "difficulty": "Easy",
+        "options": ["Hercule Poirot", "Sherlock Holmes", "Miss Marple", "Philip Marlowe"],
+        "answer": "Sherlock Holmes",
+        "explanation": "Sir Arthur Conan Doyle created Sherlock Holmes, who lived at 221B Baker Street in London."
+    },
+    {
+        "id": 28,
+        "question": "What is the process by which plants turn sunlight into energy?",
+        "category": "Nature",
+        "difficulty": "Easy",
+        "options": ["Respiration", "Photosynthesis", "Fermentation", "Transpiration"],
+        "answer": "Photosynthesis",
+        "explanation": "Photosynthesis is the process green plants use to synthesize nutrients from water and carbon dioxide using solar light."
+    },
+    {
+        "id": 29,
+        "question": "Which musical instrument has 88 keys on a standard model?",
+        "category": "Entertainment",
+        "difficulty": "Easy",
+        "options": ["Accordion", "Harpsichord", "Piano", "Organ"],
+        "answer": "Piano",
+        "explanation": "A standard acoustic piano has 88 keys: 52 white keys (naturals) and 36 black keys (accidentals)."
+    },
+    {
+        "id": 30,
+        "question": "How many degrees are in a full circle?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["180", "270", "360", "400"],
+        "answer": "360",
+        "explanation": "A full circular turn corresponds to an angle of 360 degrees."
+    },
+    {
+        "id": 31,
+        "question": "Which country is home to the ancient city of Petra?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Egypt", "Jordan", "Greece", "Turkey"],
+        "answer": "Jordan",
+        "explanation": "Petra is a historic rock-carved archaeological city in southwestern Jordan, established around 312 BC."
+    },
+    {
+        "id": 32,
+        "question": "What is the speed of light in a vacuum approximately in kilometers per second?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["150,000 km/s", "300,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+        "answer": "300,000 km/s",
+        "explanation": "The speed of light in vacuum is exactly 299,792.458 km/s, commonly approximated as 300,000 km/s."
+    },
+    {
+        "id": 33,
+        "question": "Which river is the longest in the world?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River",
+        "explanation": "The Nile River in northeastern Africa spans approximately 6,650 kilometers (4,132 miles)."
+    },
+    {
+        "id": 34,
+        "question": "Who formulated the Three Laws of Motion in classical mechanics?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+        "answer": "Isaac Newton",
+        "explanation": "Sir Isaac Newton published his three laws of motion in the 'Philosophiae Naturalis Principia Mathematica' in 1687."
+    },
+    {
+        "id": 35,
+        "question": "In computer science, what is the time complexity of binary search on a sorted array of size n?",
+        "category": "Computers",
+        "difficulty": "Medium",
+        "options": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+        "answer": "O(log n)",
+        "explanation": "Binary search divides the search space in half with each iteration, yielding logarithmic time complexity O(log n)."
+    },
+    {
+        "id": 36,
+        "question": "Which space telescope was launched on Christmas Day 2021 as the successor to Hubble?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["Spitzer", "Kepler", "James Webb", "Chandra"],
+        "answer": "James Webb",
+        "explanation": "The James Webb Space Telescope (JWST) was launched on December 25, 2021 to observe infrared astronomy."
+    },
+    {
+        "id": 37,
+        "question": "Which country has the highest number of natural lakes in the world?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["United States", "Russia", "Canada", "Finland"],
+        "answer": "Canada",
+        "explanation": "Canada contains over 60% of all the world's natural lakes, with an estimated count over 2 million."
+    },
+    {
+        "id": 38,
+        "question": "What is the name of the process by which a solid changes directly into a gas without passing through a liquid state?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["Evaporation", "Condensation", "Sublimation", "Deposition"],
+        "answer": "Sublimation",
+        "explanation": "Sublimation is the phase transition directly from solid to gas (such as dry ice turning into carbon dioxide gas)."
+    },
+    {
+        "id": 39,
+        "question": "Which treaty marked the formal end of World War I in 1919?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Ghent", "Treaty of Utrecht"],
+        "answer": "Treaty of Versailles",
+        "explanation": "The Treaty of Versailles was signed on June 28, 1919 in the Hall of Mirrors in Versailles, France."
+    },
+    {
+        "id": 40,
+        "question": "What is the primary material used in the manufacturing of modern semiconductor microchips?",
+        "category": "Technology",
+        "difficulty": "Medium",
+        "options": ["Germanium", "Silicon", "Graphene", "Copper"],
+        "answer": "Silicon",
+        "explanation": "Silicon is the foundation of most integrated circuits due to its ideal semiconductor properties and abundance."
+    },
+    {
+        "id": 41,
+        "question": "In tennis, what term is used to describe a score of 40-40 in a game?",
+        "category": "Sports",
+        "difficulty": "Medium",
+        "options": ["Deuce", "Tiebreak", "Advantage", "Love"],
+        "answer": "Deuce",
+        "explanation": "When both players or teams reach 40 points in a tennis game, the score is known as 'deuce'."
+    },
+    {
+        "id": 42,
+        "question": "Who wrote the dystopian novel '1984'?",
+        "category": "Literature",
+        "difficulty": "Medium",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Arthur C. Clarke"],
+        "answer": "George Orwell",
+        "explanation": "George Orwell (Eric Arthur Blair) published 'Nineteen Eighty-Four' in 1949, introducing concepts like Big Brother."
+    },
+    {
+        "id": 43,
+        "question": "What is the smallest prime number?",
+        "category": "Mathematics",
+        "difficulty": "Medium",
+        "options": ["0", "1", "2", "3"],
+        "answer": "2",
+        "explanation": "2 is the smallest prime number and the only even prime number in mathematics."
+    },
+    {
+        "id": 44,
+        "question": "Which moon in our solar system has a dense nitrogen atmosphere and liquid methane lakes?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["Europa", "Ganymede", "Titan", "Enceladus"],
+        "answer": "Titan",
+        "explanation": "Saturn's largest moon, Titan, possesses a dense atmosphere and stable surface bodies of liquid methane and ethane."
+    },
+    {
+        "id": 45,
+        "question": "Which tree species is renowned for producing the tallest living individual organisms on Earth?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Coast Redwood", "Douglas Fir", "Giant Sequoia", "Mountain Ash"],
+        "answer": "Coast Redwood",
+        "explanation": "Coast Redwoods (Sequoia sempervirens) in California include 'Hyperion', which exceeds 380 feet (115 meters) in height."
+    },
+    {
+        "id": 46,
+        "question": "What is the standard port number for secure HTTPS web traffic?",
+        "category": "Computers",
+        "difficulty": "Medium",
+        "options": ["21", "80", "443", "8080"],
+        "answer": "443",
+        "explanation": "Port 443 is the standard TCP port designated for secure encrypted web traffic over HTTPS."
+    },
+    {
+        "id": 47,
+        "question": "What does the abbreviation 'GPS' stand for in navigation technology?",
+        "category": "Technology",
+        "difficulty": "Medium",
+        "options": ["Global Positioning System", "General Pathfinding Sensor", "Geographic Precision Satellite", "Global Polarized Signal"],
+        "answer": "Global Positioning System",
+        "explanation": "GPS stands for Global Positioning System, a satellite-based radionavigation system owned by the United States."
+    },
+    {
+        "id": 48,
+        "question": "In Greek mythology, who was the king of the Olympian gods and wielder of the thunderbolt?",
+        "category": "General Knowledge",
+        "difficulty": "Medium",
+        "options": ["Poseidon", "Hades", "Zeus", "Apollo"],
+        "answer": "Zeus",
+        "explanation": "Zeus is the sky and thunder god in ancient Greek religion, who rules as king of the gods of Mount Olympus."
+    },
+    {
+        "id": 49,
+        "question": "Which element makes up the majority of the Sun's mass?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+        "answer": "Hydrogen",
+        "explanation": "Hydrogen makes up roughly 73% of the Sun's total mass, with helium making up nearly all the rest (~25%)."
+    },
+    {
+        "id": 50,
+        "question": "Which historic wall divided Berlin into East and West from 1961 until its fall in 1989?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Maginot Wall", "Berlin Wall", "Iron Curtain Wall", "Hadrian's Wall"],
+        "answer": "Berlin Wall",
+        "explanation": "The Berlin Wall was constructed by East Germany in 1961 and famously opened on November 9, 1989."
+    },
+    {
+        "id": 51,
+        "question": "What is the capital city of Australia?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra",
+        "explanation": "Canberra was selected as the compromise capital of Australia in 1908 between Sydney and Melbourne."
+    },
+    {
+        "id": 52,
+        "question": "What is the only mammal capable of sustained true flapping flight?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Flying Squirrel", "Bat", "Sugar Glider", "Colugo"],
+        "answer": "Bat",
+        "explanation": "Bats are the only mammals capable of powered, continuous flight; gliding mammals only parachute or drift."
+    },
+    {
+        "id": 53,
+        "question": "Who is credited with creating the Linux operating system kernel in 1991?",
+        "category": "Computers",
+        "difficulty": "Medium",
+        "options": ["Linus Torvalds", "Richard Stallman", "Ken Thompson", "Dennis Ritchie"],
+        "answer": "Linus Torvalds",
+        "explanation": "Finnish software engineer Linus Torvalds developed the Linux kernel as a student at the University of Helsinki."
+    },
+    {
+        "id": 54,
+        "question": "In which city were the first modern Olympic Games held in 1896?",
+        "category": "Sports",
+        "difficulty": "Medium",
+        "options": ["Paris", "Athens", "Rome", "London"],
+        "answer": "Athens",
+        "explanation": "The 1896 Summer Olympics were held in Athens, Greece, reviving the ancient Olympic tradition."
+    },
+    {
+        "id": 55,
+        "question": "What is the name of the mathematical theorem stating that a^2 + b^2 = c^2 for a right-angled triangle?",
+        "category": "Mathematics",
+        "difficulty": "Medium",
+        "options": ["Fermat's Theorem", "Pythagorean Theorem", "Euclid's Algorithm", "Euler's Identity"],
+        "answer": "Pythagorean Theorem",
+        "explanation": "The Pythagorean Theorem states that the square of the hypotenuse equals the sum of the squares of the other two sides."
+    },
+    {
+        "id": 56,
+        "question": "Which film won the first-ever Academy Award for Best Animated Feature in 2002?",
+        "category": "Entertainment",
+        "difficulty": "Medium",
+        "options": ["Toy Story", "Monsters, Inc.", "Shrek", "Finding Nemo"],
+        "answer": "Shrek",
+        "explanation": "DreamWorks Animation's 'Shrek' won the inaugural Best Animated Feature Oscar at the 74th Academy Awards."
+    },
+    {
+        "id": 57,
+        "question": "Which layer of the Earth lies directly beneath the crust?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["Outer Core", "Inner Core", "Mantle", "Lithosphere"],
+        "answer": "Mantle",
+        "explanation": "The mantle is the mostly-solid bulk of Earth's interior, extending to a depth of roughly 2,900 kilometers."
+    },
+    {
+        "id": 58,
+        "question": "Who wrote the epic adventure novel 'Moby-Dick'?",
+        "category": "Literature",
+        "difficulty": "Medium",
+        "options": ["Herman Melville", "Nathaniel Hawthorne", "Edgar Allan Poe", "Walt Whitman"],
+        "answer": "Herman Melville",
+        "explanation": "Herman Melville published 'Moby-Dick; or, The Whale' in 1851."
+    },
+    {
+        "id": 59,
+        "question": "What does the tech acronym 'RAM' stand for?",
+        "category": "Technology",
+        "difficulty": "Medium",
+        "options": ["Random Access Memory", "Rapid Action Module", "Read-Only Array Memory", "Realtime Access Mechanism"],
+        "answer": "Random Access Memory",
+        "explanation": "RAM (Random Access Memory) provides high-speed volatile storage for data and programs actively used by the processor."
+    },
+    {
+        "id": 60,
+        "question": "Which is the largest desert in the world when classifying polar deserts?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["Sahara Desert", "Arabian Desert", "Antarctic Desert", "Gobi Desert"],
+        "answer": "Antarctic Desert",
+        "explanation": "Antarctica is the largest desert on Earth by area (approx. 14.2 million sq km) due to extremely low precipitation."
+    },
+    {
+        "id": 61,
+        "question": "What is the name of the boundary around a black hole beyond which nothing, not even light, can escape?",
+        "category": "Space",
+        "difficulty": "Hard",
+        "options": ["Photon Sphere", "Ergosphere", "Event Horizon", "Accretion Disk"],
+        "answer": "Event Horizon",
+        "explanation": "The event horizon is the critical threshold radius where escape velocity equals the speed of light."
+    },
+    {
+        "id": 62,
+        "question": "What is the only metal that is in liquid form at standard room temperature and pressure?",
+        "category": "Science",
+        "difficulty": "Hard",
+        "options": ["Gallium", "Mercury", "Francium", "Cesium"],
+        "answer": "Mercury",
+        "explanation": "Mercury (Hg) has a melting point of -38.83 °C (-37.89 °F), making it liquid at room temperature (Gallium melts at 29.76 °C)."
+    },
+    {
+        "id": 63,
+        "question": "In what year did the Byzantine capital Constantinople fall to the Ottoman Empire under Sultan Mehmed II?",
+        "category": "History",
+        "difficulty": "Hard",
+        "options": ["1204", "1453", "1492", "1517"],
+        "answer": "1453",
+        "explanation": "Constantinople fell on May 29, 1453, ending the Eastern Roman (Byzantine) Empire after over a millennium."
+    },
+    {
+        "id": 64,
+        "question": "Which subatomic particle was predicted in 1964 and confirmed by CERN's Large Hadron Collider in 2012?",
+        "category": "Science",
+        "difficulty": "Hard",
+        "options": ["Tau Neutrino", "Higgs Boson", "Top Quark", "Graviton"],
+        "answer": "Higgs Boson",
+        "explanation": "The Higgs boson gives mass to other fundamental particles via the Higgs field mechanism."
+    },
+    {
+        "id": 65,
+        "question": "What is the deepest known oceanic trench on Earth?",
+        "category": "Geography",
+        "difficulty": "Hard",
+        "options": ["Java Trench", "Puerto Rico Trench", "Mariana Trench", "Tonga Trench"],
+        "answer": "Mariana Trench",
+        "explanation": "The Mariana Trench reaches its deepest point at Challenger Deep, approximately 10,994 meters (36,070 feet) below sea level."
+    },
+    {
+        "id": 66,
+        "question": "In asymmetric cryptography, which algorithmic standard is based on the difficulty of factoring large composite integers?",
+        "category": "Computers",
+        "difficulty": "Hard",
+        "options": ["AES", "RSA", "Diffie-Hellman", "SHA-256"],
+        "answer": "RSA",
+        "explanation": "RSA (Rivest-Shamir-Adleman) relies for its security on the computational hardness of factoring products of large prime numbers."
+    },
+    {
+        "id": 67,
+        "question": "Which ancient battle in 490 BC saw the Athenians defeat the first Persian invasion of Greece?",
+        "category": "History",
+        "difficulty": "Hard",
+        "options": ["Battle of Thermopylae", "Battle of Salamis", "Battle of Marathon", "Battle of Plataea"],
+        "answer": "Battle of Marathon",
+        "explanation": "The Battle of Marathon took place in 490 BC and gave rise to the legendary run of Pheidippides."
+    },
+    {
+        "id": 68,
+        "question": "What is the value of Euler's number (e) rounded to three decimal places?",
+        "category": "Mathematics",
+        "difficulty": "Hard",
+        "options": ["2.718", "3.142", "1.618", "1.414"],
+        "answer": "2.718",
+        "explanation": "Euler's number e, the base of natural logarithms, is approximately 2.71828..."
+    },
+    {
+        "id": 69,
+        "question": "Which animal produces venom containing the potent neurotoxin tetrodotoxin?",
+        "category": "Nature",
+        "difficulty": "Hard",
+        "options": ["Blue-ringed Octopus", "Cone Snail", "King Cobra", "Stonefish"],
+        "answer": "Blue-ringed Octopus",
+        "explanation": "Blue-ringed octopuses harbor symbiotic bacteria that produce deadly tetrodotoxin, which can paralyze humans within minutes."
+    },
+    {
+        "id": 70,
+        "question": "What year was the first human spaceflight conducted by Yuri Gagarin aboard Vostok 1?",
+        "category": "Space",
+        "difficulty": "Hard",
+        "options": ["1957", "1959", "1961", "1969"],
+        "answer": "1961",
+        "explanation": "Soviet cosmonaut Yuri Gagarin became the first person in space when he orbited Earth on April 12, 1961."
+    },
+    {
+        "id": 71,
+        "question": "Who was the first woman to win a Nobel Prize, and the only person to win Nobel Prizes in two different scientific fields?",
+        "category": "Science",
+        "difficulty": "Hard",
+        "options": ["Rosalind Franklin", "Marie Curie", "Lise Meitner", "Dorothy Hodgkin"],
+        "answer": "Marie Curie",
+        "explanation": "Marie Curie won the 1903 Nobel Prize in Physics and the 1911 Nobel Prize in Chemistry."
+    },
+    {
+        "id": 72,
+        "question": "In literature, which James Joyce novel takes place entirely across Dublin on a single day, June 16, 1904?",
+        "category": "Literature",
+        "difficulty": "Hard",
+        "options": ["Dubliners", "Finnegans Wake", "A Portrait of the Artist as a Young Man", "Ulysses"],
+        "answer": "Ulysses",
+        "explanation": "James Joyce's 'Ulysses' chronicles Leopold Bloom's appointments and encounters in Dublin on June 16, celebrated today as Bloomsday."
+    },
+    {
+        "id": 73,
+        "question": "What is the consensus definition of Moore's Law formulated in 1965 by Gordon Moore?",
+        "category": "Technology",
+        "difficulty": "Hard",
+        "options": [
+            "Processor clock speeds double every 12 months",
+            "The number of transistors on a microchip doubles roughly every two years",
+            "Computer storage capacity doubles every decade",
+            "Internet bandwidth doubles every 6 months"
+        ],
+        "answer": "The number of transistors on a microchip doubles roughly every two years",
+        "explanation": "Moore's Law is the historical observation that the number of transistors in a dense integrated circuit doubles about every two years."
+    },
+    {
+        "id": 74,
+        "question": "Which country is the only nation on Earth that is also classified as an entire continent?",
+        "category": "Geography",
+        "difficulty": "Hard",
+        "options": ["Greenland", "Australia", "Madagascar", "New Zealand"],
+        "answer": "Australia",
+        "explanation": "Australia is the only geopolitical country that occupies an entire continent on its own."
+    },
+    {
+        "id": 75,
+        "question": "Which grandmaster became the youngest undisputed World Chess Champion in 1985 at age 22?",
+        "category": "Sports",
+        "difficulty": "Hard",
+        "options": ["Bobby Fischer", "Anatoly Karpov", "Garry Kasparov", "Magnus Carlsen"],
+        "answer": "Garry Kasparov",
+        "explanation": "Garry Kasparov won the title in 1985 against Anatoly Karpov at the age of 22 years and 210 days."
+    },
+    {
+        "id": 76,
+        "question": "What is the primary function of ribosomes in living biological cells?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["DNA replication", "Protein synthesis", "Lipid storage", "ATP generation"],
+        "answer": "Protein synthesis",
+        "explanation": "Ribosomes are macromolecular machines that translate messenger RNA (mRNA) into polypeptide chains of amino acids."
+    },
+    {
+        "id": 77,
+        "question": "What is the name of the oldest university continuously in operation in the world?",
+        "category": "General Knowledge",
+        "difficulty": "Hard",
+        "options": ["University of Oxford", "University of Bologna", "University of al-Qarawiyyin", "University of Paris"],
+        "answer": "University of al-Qarawiyyin",
+        "explanation": "Founded in 859 AD by Fatima al-Fihri in Fez, Morocco, al-Qarawiyyin is recognized by UNESCO as the oldest operational university."
+    },
+    {
+        "id": 78,
+        "question": "What is the term for a word, phrase, or number that reads the same forwards and backwards?",
+        "category": "General Knowledge",
+        "difficulty": "Easy",
+        "options": ["Anagram", "Palindrome", "Acronym", "Homophone"],
+        "answer": "Palindrome",
+        "explanation": "A palindrome is a sequence that reads the same backward as forward, such as 'racecar' or 'madam'."
+    },
+    {
+        "id": 79,
+        "question": "Which famous scientist was awarded the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["Niels Bohr", "Max Planck", "Albert Einstein", "Werner Heisenberg"],
+        "answer": "Albert Einstein",
+        "explanation": "Albert Einstein received his Nobel Prize specifically for his discovery of the law of the photoelectric effect, not relativity."
+    },
+    {
+        "id": 80,
+        "question": "Which city is the capital of Canada?",
+        "category": "Geography",
+        "difficulty": "Easy",
+        "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+        "answer": "Ottawa",
+        "explanation": "Queen Victoria named Ottawa the capital of the Province of Canada in 1857."
+    },
+    {
+        "id": 81,
+        "question": "In what year did the Apollo 11 mission land the first humans on the Moon?",
+        "category": "Space",
+        "difficulty": "Easy",
+        "options": ["1967", "1969", "1971", "1972"],
+        "answer": "1969",
+        "explanation": "Neil Armstrong and Buzz Aldrin landed the Apollo 11 Lunar Module on the Moon on July 20, 1969."
+    },
+    {
+        "id": 82,
+        "question": "Which mathematical constant is defined as (1 + √5) / 2 and often denoted by the Greek letter Phi (φ)?",
+        "category": "Mathematics",
+        "difficulty": "Hard",
+        "options": ["Golden Ratio", "Euler's Constant", "Pythagorean Constant", "Silver Ratio"],
+        "answer": "Golden Ratio",
+        "explanation": "The Golden Ratio (~1.618033...) appears frequently in geometry, art, architecture, and phyllotaxis in nature."
+    },
+    {
+        "id": 83,
+        "question": "What is the name of the worldwide web's first graphical browser created by Marc Andreessen in 1993?",
+        "category": "Computers",
+        "difficulty": "Hard",
+        "options": ["Netscape Navigator", "NCSA Mosaic", "Internet Explorer", "Opera"],
+        "answer": "NCSA Mosaic",
+        "explanation": "NCSA Mosaic was credited with popularizing the World Wide Web by integrating inline images and text."
+    },
+    {
+        "id": 84,
+        "question": "Which composer wrote the famous 'Symphony No. 9' featuring the 'Ode to Joy' while being almost completely deaf?",
+        "category": "Entertainment",
+        "difficulty": "Medium",
+        "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Schubert"],
+        "answer": "Ludwig van Beethoven",
+        "explanation": "Beethoven premiered his Ninth Symphony in Vienna in 1824 despite profound hearing loss."
+    },
+    {
+        "id": 85,
+        "question": "What is the largest living bird species in the world by mass and height?",
+        "category": "Nature",
+        "difficulty": "Easy",
+        "options": ["Emu", "Ostrich", "Cassowary", "Albatross"],
+        "answer": "Ostrich",
+        "explanation": "The Common Ostrich can weigh over 300 pounds (140 kg) and grow up to 9 feet tall."
+    },
+    {
+        "id": 86,
+        "question": "In which country did the Industrial Revolution begin in the mid-18th century?",
+        "category": "History",
+        "difficulty": "Easy",
+        "options": ["France", "Germany", "Great Britain", "United States"],
+        "answer": "Great Britain",
+        "explanation": "The Industrial Revolution originated in Great Britain around 1760 with mechanized textiles and steam power."
+    },
+    {
+        "id": 87,
+        "question": "What is the primary function of DNS (Domain Name System) on the Internet?",
+        "category": "Technology",
+        "difficulty": "Medium",
+        "options": [
+            "Encrypt web traffic",
+            "Translate human-readable domain names into numeric IP addresses",
+            "Route email packets",
+            "Host website files"
+        ],
+        "answer": "Translate human-readable domain names into numeric IP addresses",
+        "explanation": "DNS acts as the phonebook of the Internet, mapping domains like 'example.com' to IP addresses like 93.184.216.34."
+    },
+    {
+        "id": 88,
+        "question": "What is the only country in South America that has both Pacific and Caribbean coastlines?",
+        "category": "Geography",
+        "difficulty": "Hard",
+        "options": ["Panama", "Venezuela", "Colombia", "Ecuador"],
+        "answer": "Colombia",
+        "explanation": "Colombia is uniquely situated at the northwest tip of South America with coasts on both the Pacific Ocean and Caribbean Sea."
+    },
+    {
+        "id": 89,
+        "question": "Which gas is responsible for the characteristic pungent smell of rotten eggs?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["Sulfur dioxide", "Hydrogen sulfide", "Methane", "Ammonia"],
+        "answer": "Hydrogen sulfide",
+        "explanation": "Hydrogen sulfide (H2S) is a colorless chalcogen-hydride gas with the distinctive foul odor of decaying organic matter."
+    },
+    {
+        "id": 90,
+        "question": "How many squares are there on a standard chessboard?",
+        "category": "Sports",
+        "difficulty": "Easy",
+        "options": ["48", "64", "72", "100"],
+        "answer": "64",
+        "explanation": "A standard chessboard is an 8x8 grid consisting of 64 alternating light and dark squares."
+    },
+    {
+        "id": 91,
+        "question": "Which English author wrote the classic gothic novel 'Frankenstein' at just 18 years old?",
+        "category": "Literature",
+        "difficulty": "Medium",
+        "options": ["Mary Shelley", "Emily Brontë", "Bram Stoker", "Charlotte Brontë"],
+        "answer": "Mary Shelley",
+        "explanation": "Mary Shelley began writing Frankenstein; or, The Modern Prometheus during a rainy summer in Switzerland in 1816."
+    },
+    {
+        "id": 92,
+        "question": "What is the SI unit of electric current?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Volt", "Watt", "Ampere", "Ohm"],
+        "answer": "Ampere",
+        "explanation": "The ampere (symbol: A) is the base unit of electric current in the International System of Units."
+    },
+    {
+        "id": 93,
+        "question": "Which planet has the shortest day (fastest rotational speed on its axis) in our solar system?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["Mercury", "Jupiter", "Earth", "Saturn"],
+        "answer": "Jupiter",
+        "explanation": "Jupiter rotates once on its axis in just under 10 Earth hours (approximately 9 hours and 55 minutes)."
+    },
+    {
+        "id": 94,
+        "question": "Which country is the world's leading producer of cocoa beans used to make chocolate?",
+        "category": "General Knowledge",
+        "difficulty": "Medium",
+        "options": ["Brazil", "Ghana", "Ivory Coast (Côte d'Ivoire)", "Indonesia"],
+        "answer": "Ivory Coast (Côte d'Ivoire)",
+        "explanation": "Ivory Coast produces over 40% of the world's cocoa supply annually."
+    },
+    {
+        "id": 95,
+        "question": "What is the process of finding and fixing errors or bugs in computer software called?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Compiling", "Debugging", "Refactoring", "Linting"],
+        "answer": "Debugging",
+        "explanation": "Debugging is the routine process of locating and resolving defects or flaws in computer program code."
+    },
+    {
+        "id": 96,
+        "question": "Which landmark treaty established the European Union in 1993?",
+        "category": "History",
+        "difficulty": "Hard",
+        "options": ["Treaty of Rome", "Maastricht Treaty", "Treaty of Lisbon", "Schengen Agreement"],
+        "answer": "Maastricht Treaty",
+        "explanation": "Signed in Maastricht, Netherlands in 1992, the treaty entered into force on November 1, 1993, formally creating the EU."
+    },
+    {
+        "id": 97,
+        "question": "What is the name of the highest mountain peak in North America?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["Mount Whitney", "Mount Logan", "Denali (Mount McKinley)", "Mount Rainier"],
+        "answer": "Denali (Mount McKinley)",
+        "explanation": "Denali in Alaska has a summit elevation of 20,310 feet (6,190 meters) above sea level."
+    },
+    {
+        "id": 98,
+        "question": "In statistics, what is the value that appears most frequently in a data set called?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["Mean", "Median", "Mode", "Range"],
+        "answer": "Mode",
+        "explanation": "The mode is the value that occurs with the highest frequency in a given probability distribution or dataset."
+    },
+    {
+        "id": 99,
+        "question": "What is the world's largest species of land carnivore?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Grizzly Bear", "Polar Bear", "Siberian Tiger", "African Lion"],
+        "answer": "Polar Bear",
+        "explanation": "Adult male polar bears can weigh between 350-700 kg (770-1,540 lb), making them the largest living land predators."
+    },
+    {
+        "id": 100,
+        "question": "Which technology protocol allows short-range wireless communication between devices up to ~10 meters?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["Wi-Fi", "Bluetooth", "NFC", "Zigbee"],
+        "answer": "Bluetooth",
+        "explanation": "Bluetooth is a short-range wireless standard developed in 1994, named after King Harald Bluetooth of Denmark."
+    },
+    {
+        "id": 101,
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis in 1962?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Joseph Stalin", "Nikita Khrushchev", "Leonid Brezhnev", "Mikhail Gorbachev"],
+        "answer": "Nikita Khrushchev",
+        "explanation": "Nikita Khrushchev served as First Secretary of the Communist Party of the Soviet Union during the 1962 standoff."
+    },
+    {
+        "id": 102,
+        "question": "What is the largest internal organ in the human body?",
+        "category": "Science",
+        "difficulty": "Medium",
+        "options": ["Heart", "Liver", "Lungs", "Brain"],
+        "answer": "Liver",
+        "explanation": "The liver is the heaviest internal organ, weighing around 1.5 kg (3.3 lb) in adult humans (the skin is the largest overall organ)."
+    },
+    {
+        "id": 103,
+        "question": "Which country invented the game of Golf during the 15th century?",
+        "category": "Sports",
+        "difficulty": "Easy",
+        "options": ["England", "Scotland", "Ireland", "United States"],
+        "answer": "Scotland",
+        "explanation": "Modern golf originated in 15th-century Scotland, with the Old Course at St Andrews dating back to 1552."
+    },
+    {
+        "id": 104,
+        "question": "What is the title of the first book in J.K. Rowling's Harry Potter series?",
+        "category": "Literature",
+        "difficulty": "Easy",
+        "options": [
+            "Harry Potter and the Chamber of Secrets",
+            "Harry Potter and the Prisoner of Azkaban",
+            "Harry Potter and the Philosopher's Stone",
+            "Harry Potter and the Goblet of Fire"
+        ],
+        "answer": "Harry Potter and the Philosopher's Stone",
+        "explanation": "Published in 1997 in the UK as 'Harry Potter and the Philosopher's Stone' (titled 'Sorcerer's Stone' in the US)."
+    },
+    {
+        "id": 105,
+        "question": "Which constellation contains the famous group of stars known as the Big Dipper (or the Plough)?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["Orion", "Ursa Major", "Cassiopeia", "Ursa Minor"],
+        "answer": "Ursa Major",
+        "explanation": "The Big Dipper is an asterism comprising the seven brightest stars in the constellation Ursa Major (the Great Bear)."
+    },
+    {
+        "id": 106,
+        "question": "What is the capital city of Argentina?",
+        "category": "Geography",
+        "difficulty": "Easy",
+        "options": ["Santiago", "Buenos Aires", "Montevideo", "Lima"],
+        "answer": "Buenos Aires",
+        "explanation": "Buenos Aires is the capital and largest city of the Argentine Republic, located on the western shore of the Río de la Plata."
+    },
+    {
+        "id": 107,
+        "question": "What does 'GUI' stand for in software systems?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Graphical User Interface", "General User Integration", "Global Unified Information", "Graphic Utility Instruction"],
+        "answer": "Graphical User Interface",
+        "explanation": "A Graphical User Interface enables users to interact with electronic devices through visual icons and audio indicators."
+    },
+    {
+        "id": 108,
+        "question": "What is the term for a polynomial equation of degree two (ax^2 + bx + c = 0)?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["Linear equation", "Quadratic equation", "Cubic equation", "Exponential equation"],
+        "answer": "Quadratic equation",
+        "explanation": "A second-order polynomial equation is known as a quadratic equation, solvable using the quadratic formula."
+    },
+    {
+        "id": 109,
+        "question": "Which gas gives neon signs their characteristic reddish-orange glow?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Argon", "Helium", "Neon", "Krypton"],
+        "answer": "Neon",
+        "explanation": "Pure noble gas neon emits a brilliant reddish-orange discharge when electrified in a discharge tube."
+    },
+    {
+        "id": 110,
+        "question": "Which animal has the longest migration of any known creature, traveling up to 44,000 miles every year?",
+        "category": "Nature",
+        "difficulty": "Hard",
+        "options": ["Monarch Butterfly", "Humpback Whale", "Arctic Tern", "Leatherback Turtle"],
+        "answer": "Arctic Tern",
+        "explanation": "The Arctic Tern flies from its Arctic breeding grounds to the Antarctic coast and back, seeing two summers a year."
+    },
+    {
+        "id": 111,
+        "question": "Which famous scientist was known as the 'Father of the Atomic Bomb' as director of the Manhattan Project's Los Alamos Lab?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Enrico Fermi", "J. Robert Oppenheimer", "Richard Feynman", "Edward Teller"],
+        "answer": "J. Robert Oppenheimer",
+        "explanation": "Theoretical physicist J. Robert Oppenheimer led the Manhattan Project's Los Alamos Laboratory developing the first nuclear weapons."
+    },
+    {
+        "id": 112,
+        "question": "What is the rarest blood type in the ABO/Rh blood group system among the global population?",
+        "category": "General Knowledge",
+        "difficulty": "Hard",
+        "options": ["O Negative", "B Negative", "AB Negative", "A Negative"],
+        "answer": "AB Negative",
+        "explanation": "AB Negative is found in less than 1% of the world's population, making it the rarest standard blood group."
+    },
+    {
+        "id": 113,
+        "question": "Which movie won Best Picture at the Academy Awards in 1998, sweeping 11 Oscars in total?",
+        "category": "Entertainment",
+        "difficulty": "Easy",
+        "options": ["Titanic", "Saving Private Ryan", "Gladiator", "Braveheart"],
+        "answer": "Titanic",
+        "explanation": "James Cameron's 'Titanic' (1997) won 11 Oscars including Best Picture and Best Director."
+    },
+    {
+        "id": 114,
+        "question": "In what year did the Chernobyl nuclear disaster occur in Soviet Ukraine?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["1979", "1984", "1986", "1991"],
+        "answer": "1986",
+        "explanation": "The catastrophic nuclear accident occurred on April 26, 1986 at Reactor No. 4 of the Chernobyl Nuclear Power Plant."
+    },
+    {
+        "id": 115,
+        "question": "What is the name of the force that resists relative motion between two surfaces in contact?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Gravity", "Inertia", "Friction", "Tension"],
+        "answer": "Friction",
+        "explanation": "Friction is the contact force resisting the relative motion of solid surfaces, fluid layers, and material elements."
+    },
+    {
+        "id": 116,
+        "question": "What is the smallest country in the world by both area and population?",
+        "category": "Geography",
+        "difficulty": "Easy",
+        "options": ["Monaco", "Nauru", "San Marino", "Vatican City"],
+        "answer": "Vatican City",
+        "explanation": "Vatican City is an independent city-state enclaved within Rome, Italy, measuring just 0.49 square kilometers."
+    },
+    {
+        "id": 117,
+        "question": "What is the name of the sorting algorithm that operates by repeatedly stepping through the list, comparing adjacent elements and swapping them?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Quick Sort", "Bubble Sort", "Merge Sort", "Insertion Sort"],
+        "answer": "Bubble Sort",
+        "explanation": "Bubble Sort is a simple comparison algorithm where smaller or larger elements 'bubble' to their correct position."
+    },
+    {
+        "id": 118,
+        "question": "Which Greek philosopher was the teacher of Alexander the Great?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+        "answer": "Aristotle",
+        "explanation": "Aristotle was hired by King Philip II of Macedon to tutor the young Alexander from age 13."
+    },
+    {
+        "id": 119,
+        "question": "What is the primary greenhouse gas emitted through human activities such as burning fossil fuels?",
+        "category": "Nature",
+        "difficulty": "Easy",
+        "options": ["Nitrous Oxide", "Carbon Dioxide", "Ozone", "Methane"],
+        "answer": "Carbon Dioxide",
+        "explanation": "Carbon dioxide (CO2) accounts for the largest share of human-caused greenhouse gas emissions."
+    },
+    {
+        "id": 120,
+        "question": "In what year was the first modern artificial satellite, Sputnik 1, launched into orbit?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["1955", "1957", "1960", "1962"],
+        "answer": "1957",
+        "explanation": "The Soviet Union launched Sputnik 1 on October 4, 1957, inaugurating the Space Age."
+    },
+    {
+        "id": 121,
+        "question": "Which mathematical sequence begins 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["Lucas numbers", "Fibonacci sequence", "Prime numbers", "Collatz sequence"],
+        "answer": "Fibonacci sequence",
+        "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones."
+    },
+    {
+        "id": 122,
+        "question": "Which English scientist invented the World Wide Web in 1989 while working at CERN?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["Alan Turing", "Tim Berners-Lee", "Charles Babbage", "Vint Cerf"],
+        "answer": "Tim Berners-Lee",
+        "explanation": "Sir Tim Berners-Lee proposed an information management system in March 1989 that became the World Wide Web."
+    },
+    {
+        "id": 123,
+        "question": "Which country won the most gold medals at the 2008 Summer Olympic Games in Beijing?",
+        "category": "Sports",
+        "difficulty": "Medium",
+        "options": ["United States", "China", "Russia", "Great Britain"],
+        "answer": "China",
+        "explanation": "Host nation China won 48 gold medals at the 2008 Beijing Olympics, topping the gold medal table."
+    },
+    {
+        "id": 124,
+        "question": "In economics and commerce, what does 'GDP' stand for?",
+        "category": "General Knowledge",
+        "difficulty": "Easy",
+        "options": ["Gross Domestic Product", "General Development Price", "Global Domestic Profit", "Gross Distribution Percentage"],
+        "answer": "Gross Domestic Product",
+        "explanation": "Gross Domestic Product measures the monetary value of final goods and services produced in a country over a specific period."
+    },
+    {
+        "id": 125,
+        "question": "What is the title of the famous epic poem by Homer recounting Odysseus's ten-year journey home from Troy?",
+        "category": "Literature",
+        "difficulty": "Easy",
+        "options": ["The Iliad", "The Odyssey", "The Aeneid", "Metamorphoses"],
+        "answer": "The Odyssey",
+        "explanation": "The Odyssey follows the Greek hero Odysseus, king of Ithaca, on his arduous voyage home following the Trojan War."
+    },
+    {
+        "id": 126,
+        "question": "What is the common name for the chemical compound Sodium Chloride (NaCl)?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Baking Soda", "Table Salt", "Chalk", "Bleach"],
+        "answer": "Table Salt",
+        "explanation": "Sodium chloride (NaCl) is an ionic compound commonly known as table salt."
+    },
+    {
+        "id": 127,
+        "question": "Which island is the largest by land area in the world?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["New Guinea", "Borneo", "Madagascar", "Greenland"],
+        "answer": "Greenland",
+        "explanation": "Greenland is the world's largest non-continental island, with an area of roughly 2.16 million sq km."
+    },
+    {
+        "id": 128,
+        "question": "What is the term for a computer program designed to secretly gather user information without consent?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Adware", "Spyware", "Ransomware", "Firmware"],
+        "answer": "Spyware",
+        "explanation": "Spyware is malicious software aimed at gathering information about a person or organization and transmitting it covertly."
+    },
+    {
+        "id": 129,
+        "question": "Which famous French military leader was defeated at the Battle of Waterloo in 1815?",
+        "category": "History",
+        "difficulty": "Easy",
+        "options": ["Louis XIV", "Napoleon Bonaparte", "Charles de Gaulle", "Joan of Arc"],
+        "answer": "Napoleon Bonaparte",
+        "explanation": "Napoleon Bonaparte suffered his final defeat at Waterloo in modern-day Belgium on June 18, 1815."
+    },
+    {
+        "id": 130,
+        "question": "What is the term for the colorful visual displays in Earth's polar skies caused by solar wind particles hitting the atmosphere?",
+        "category": "Space",
+        "difficulty": "Easy",
+        "options": ["Solar Flares", "Auroras", "Zodiacal Light", "Coronal Mass Ejections"],
+        "answer": "Auroras",
+        "explanation": "Auroras (Aurora Borealis and Aurora Australis) occur when charged solar particles collide with atmospheric gases."
+    },
+    {
+        "id": 131,
+        "question": "Which plant is known as the fastest growing woody plant on Earth, capable of growing up to 35 inches in a single day?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Kudzu", "Bamboo", "Giant Sequoia", "Eucalyptus"],
+        "answer": "Bamboo",
+        "explanation": "Certain species of bamboo can grow up to 91 cm (35 inches) per day under optimal conditions."
+    },
+    {
+        "id": 132,
+        "question": "What is the sum of the interior angles of a pentagon?",
+        "category": "Mathematics",
+        "difficulty": "Medium",
+        "options": ["360 degrees", "450 degrees", "540 degrees", "720 degrees"],
+        "answer": "540 degrees",
+        "explanation": "The formula for interior angle sum is (n - 2) * 180°. For a 5-sided pentagon: (5 - 2) * 180° = 540°."
+    },
+    {
+        "id": 133,
+        "question": "Which video streaming service launched its subscription service in 2007, originally starting as a DVD-by-mail service in 1997?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["Hulu", "Netflix", "YouTube", "Amazon Prime Video"],
+        "answer": "Netflix",
+        "explanation": "Netflix transitioned from a DVD postal service to internet streaming media beginning in 2007."
+    },
+    {
+        "id": 134,
+        "question": "Who composed the classic four-movement suite 'The Four Seasons' (Le quattro stagioni)?",
+        "category": "Entertainment",
+        "difficulty": "Medium",
+        "options": ["Antonio Vivaldi", "Johann Sebastian Bach", "George Frideric Handel", "Claudio Monteverdi"],
+        "answer": "Antonio Vivaldi",
+        "explanation": "Italian Baroque composer Antonio Vivaldi composed The Four Seasons around 1720."
+    },
+    {
+        "id": 135,
+        "question": "In cricket, what term is used when a bowler dismisses three batsmen with three consecutive deliveries?",
+        "category": "Sports",
+        "difficulty": "Easy",
+        "options": ["Triple Strike", "Hat-trick", "Turkey", "Grand Slam"],
+        "answer": "Hat-trick",
+        "explanation": "A hat-trick occurs when a bowler takes three wickets on three successive balls in a match."
+    },
+    {
+        "id": 136,
+        "question": "What is the official residence and principal workplace of the British monarch in London?",
+        "category": "General Knowledge",
+        "difficulty": "Easy",
+        "options": ["Windsor Castle", "Kensington Palace", "Buckingham Palace", "Tower of London"],
+        "answer": "Buckingham Palace",
+        "explanation": "Buckingham Palace has been the official London residence of the UK's sovereigns since 1837."
+    },
+    {
+        "id": 137,
+        "question": "Which Russian author wrote the sweeping historical epic 'War and Peace'?",
+        "category": "Literature",
+        "difficulty": "Medium",
+        "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Alexander Pushkin"],
+        "answer": "Leo Tolstoy",
+        "explanation": "Count Leo Tolstoy first published 'War and Peace' in its entirety in 1869."
+    },
+    {
+        "id": 138,
+        "question": "What is the primary chemical element found in coal and organic matter?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["Nitrogen", "Carbon", "Silicon", "Phosphorus"],
+        "answer": "Carbon",
+        "explanation": "Carbon is the foundational element of all known organic life and the primary constituent of coal."
+    },
+    {
+        "id": 139,
+        "question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["Strait of Hormuz", "Strait of Malacca", "Strait of Gibraltar", "Bosphorus Strait"],
+        "answer": "Strait of Gibraltar",
+        "explanation": "The Strait of Gibraltar is a narrow waterway connecting the Atlantic Ocean to the Mediterranean Sea."
+    },
+    {
+        "id": 140,
+        "question": "In computer architecture, what does 'SSD' stand for?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Solid State Drive", "System Storage Disk", "Synchronous Storage Device", "Static Silicon Drive"],
+        "answer": "Solid State Drive",
+        "explanation": "A Solid State Drive (SSD) uses flash memory to deliver faster data access than mechanical hard disk drives."
+    },
+    {
+        "id": 141,
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean in 1932?",
+        "category": "History",
+        "difficulty": "Medium",
+        "options": ["Bessie Coleman", "Amelia Earhart", "Harriet Quimby", "Valentina Tereshkova"],
+        "answer": "Amelia Earhart",
+        "explanation": "Amelia Earhart completed her solo transatlantic flight from Newfoundland to Northern Ireland in May 1932."
+    },
+    {
+        "id": 142,
+        "question": "What is the name of the brightest star in the night sky as seen from Earth?",
+        "category": "Space",
+        "difficulty": "Medium",
+        "options": ["Betelgeuse", "Rigel", "Sirius", "Polaris"],
+        "answer": "Sirius",
+        "explanation": "Sirius (the Dog Star) in the constellation Canis Major has an apparent magnitude of -1.46."
+    },
+    {
+        "id": 143,
+        "question": "Which animal group does a salamander belong to?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Reptiles", "Amphibians", "Mammals", "Fish"],
+        "answer": "Amphibians",
+        "explanation": "Salamanders are a group of amphibians characterized by slender bodies, blunt snouts, and short limbs."
+    },
+    {
+        "id": 144,
+        "question": "What is the value of 5 factorial (5!) in mathematics?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["60", "100", "120", "150"],
+        "answer": "120",
+        "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+        "id": 145,
+        "question": "Which tech billionaire founded SpaceX in 2002 and co-founded PayPal?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Larry Page"],
+        "answer": "Elon Musk",
+        "explanation": "Elon Musk founded SpaceX in 2002 to reduce space transportation costs."
+    },
+    {
+        "id": 146,
+        "question": "Which rock band released the legendary album 'The Dark Side of the Moon' in 1973?",
+        "category": "Entertainment",
+        "difficulty": "Easy",
+        "options": ["Led Zeppelin", "The Beatles", "Pink Floyd", "Queen"],
+        "answer": "Pink Floyd",
+        "explanation": "Pink Floyd's progressive rock album 'The Dark Side of the Moon' remained in the Billboard charts for over 950 weeks."
+    },
+    {
+        "id": 147,
+        "question": "How long is a standard marathon footrace in miles and yards (or kilometers)?",
+        "category": "Sports",
+        "difficulty": "Medium",
+        "options": ["24.2 miles (38.9 km)", "26 miles 385 yards (42.195 km)", "28.5 miles (45.8 km)", "30 miles (48.2 km)"],
+        "answer": "26 miles 385 yards (42.195 km)",
+        "explanation": "The official standard marathon distance was established at the 1908 London Olympics as 42.195 km."
+    },
+    {
+        "id": 148,
+        "question": "Which country has the world's largest population as of 2023-2024?",
+        "category": "General Knowledge",
+        "difficulty": "Medium",
+        "options": ["China", "India", "United States", "Indonesia"],
+        "answer": "India",
+        "explanation": "According to United Nations demographic estimates, India surpassed China as the most populous country in 2023."
+    },
+    {
+        "id": 149,
+        "question": "Who wrote the famous poem 'The Raven' featuring the repetitive refrains of 'Nevermore'?",
+        "category": "Literature",
+        "difficulty": "Easy",
+        "options": ["Walt Whitman", "Robert Frost", "Edgar Allan Poe", "Lord Byron"],
+        "answer": "Edgar Allan Poe",
+        "explanation": "American writer Edgar Allan Poe published 'The Raven' in January 1845 to widespread acclaim."
+    },
+    {
+        "id": 150,
+        "question": "What is the chemical formula for water?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["H2O", "CO2", "NaCl", "CH4"],
+        "answer": "H2O",
+        "explanation": "Water is composed of two hydrogen atoms covalently bonded to a single oxygen atom (H2O)."
+    },
+    {
+        "id": 151,
+        "question": "Which mountain range separates Europe from Asia?",
+        "category": "Geography",
+        "difficulty": "Medium",
+        "options": ["The Alps", "The Himalayas", "The Ural Mountains", "The Andes"],
+        "answer": "The Ural Mountains",
+        "explanation": "The Ural Mountains run north-south through western Russia and form a conventional boundary between Europe and Asia."
+    },
+    {
+        "id": 152,
+        "question": "What open-source version control system was created by Linus Torvalds in 2005?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["SVN", "Mercurial", "Git", "CVS"],
+        "answer": "Git",
+        "explanation": "Linus Torvalds created Git in 2005 to manage development of the Linux kernel."
+    },
+    {
+        "id": 153,
+        "question": "Which civilization built the ancient citadel of Machu Picchu in Peru?",
+        "category": "History",
+        "difficulty": "Easy",
+        "options": ["Aztec", "Maya", "Inca", "Olmec"],
+        "answer": "Inca",
+        "explanation": "Machu Picchu was built as an estate for the Inca emperor Pachacuti around 1450 in the Andes."
+    },
+    {
+        "id": 154,
+        "question": "What is the term for a collapsed star with such extreme gravity that its core is composed almost entirely of closely packed neutrons?",
+        "category": "Space",
+        "difficulty": "Hard",
+        "options": ["White Dwarf", "Neutron Star", "Red Giant", "Supernova"],
+        "answer": "Neutron Star",
+        "explanation": "A neutron star is the superdense remnant formed from the gravitational collapse of a massive supergiant star."
+    },
+    {
+        "id": 155,
+        "question": "What is the term for the biological study of insects?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Ornithology", "Entomology", "Herpetology", "Ichthyology"],
+        "answer": "Entomology",
+        "explanation": "Entomology is the scientific study of insects, a branch of zoology."
+    },
+    {
+        "id": 156,
+        "question": "What is the sum of angles in any Euclidean triangle?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+        "answer": "180 degrees",
+        "explanation": "In standard Euclidean geometry, the sum of the three interior angles of any triangle always equals 180 degrees."
+    },
+    {
+        "id": 157,
+        "question": "What does the technology term 'AI' stand for?",
+        "category": "Technology",
+        "difficulty": "Easy",
+        "options": ["Automated Intelligence", "Artificial Intelligence", "Advanced Interface", "Applied Iteration"],
+        "answer": "Artificial Intelligence",
+        "explanation": "Artificial Intelligence refers to the simulation of human intelligence processes by machines and computer systems."
+    },
+    {
+        "id": 158,
+        "question": "Which actor played the iconic character Jack Sparrow in Disney's 'Pirates of the Caribbean'?",
+        "category": "Entertainment",
+        "difficulty": "Easy",
+        "options": ["Orlando Bloom", "Johnny Depp", "Geoffrey Rush", "Brad Pitt"],
+        "answer": "Johnny Depp",
+        "explanation": "Johnny Depp received an Oscar nomination for his portrayal of Captain Jack Sparrow in 2003."
+    },
+    {
+        "id": 159,
+        "question": "In which sport do competitors compete for the coveted Ryder Cup?",
+        "category": "Sports",
+        "difficulty": "Medium",
+        "options": ["Sailing", "Golf", "Cricket", "Tennis"],
+        "answer": "Golf",
+        "explanation": "The Ryder Cup is a biennial men's golf competition between teams from Europe and the United States."
+    },
+    {
+        "id": 160,
+        "question": "What is the international emergency phone number standard used throughout the European Union?",
+        "category": "General Knowledge",
+        "difficulty": "Medium",
+        "options": ["911", "999", "112", "000"],
+        "answer": "112",
+        "explanation": "112 is the common European emergency telephone number available free of charge across all EU member states."
+    },
+    {
+        "id": 161,
+        "question": "Who is the protagonist and narrator of Herman Melville's classic novel 'Moby-Dick'?",
+        "category": "Literature",
+        "difficulty": "Medium",
+        "options": ["Captain Ahab", "Ishmael", "Queequeg", "Starbuck"],
+        "answer": "Ishmael",
+        "explanation": "The novel opens with one of literature's most famous lines: 'Call me Ishmael.'"
+    },
+    {
+        "id": 162,
+        "question": "What is the pH level of pure, neutral water at standard room temperature?",
+        "category": "Science",
+        "difficulty": "Easy",
+        "options": ["5", "7", "9", "14"],
+        "answer": "7",
+        "explanation": "A pH of 7 is exactly neutral; values below 7 are acidic and values above 7 are alkaline (basic)."
+    },
+    {
+        "id": 163,
+        "question": "Which country has the longest coastline in the world?",
+        "category": "Geography",
+        "difficulty": "Hard",
+        "options": ["Norway", "Indonesia", "Russia", "Canada"],
+        "answer": "Canada",
+        "explanation": "Canada boasts the world's longest coastline, extending over 202,080 kilometers (125,567 miles)."
+    },
+    {
+        "id": 164,
+        "question": "Which data structure operates on a First-In, First-Out (FIFO) basis?",
+        "category": "Computers",
+        "difficulty": "Easy",
+        "options": ["Stack", "Queue", "Tree", "Graph"],
+        "answer": "Queue",
+        "explanation": "A queue processes items in the exact order they arrive: first-in, first-out (FIFO)."
+    },
+    {
+        "id": 165,
+        "question": "In what year did the ancient city of Pompeii get destroyed by the eruption of Mount Vesuvius?",
+        "category": "History",
+        "difficulty": "Hard",
+        "options": ["44 BC", "79 AD", "105 AD", "476 AD"],
+        "answer": "79 AD",
+        "explanation": "Mount Vesuvius erupted catastrophically in 79 AD, burying Pompeii and Herculaneum in volcanic ash."
+    },
+    {
+        "id": 166,
+        "question": "What is the name of our home galaxy?",
+        "category": "Space",
+        "difficulty": "Easy",
+        "options": ["Andromeda Galaxy", "Triangulum Galaxy", "Milky Way Galaxy", "Whirlpool Galaxy"],
+        "answer": "Milky Way Galaxy",
+        "explanation": "Our Solar System resides inside the barred spiral Milky Way Galaxy, containing 100-400 billion stars."
+    },
+    {
+        "id": 167,
+        "question": "Which marine animal is known to have three hearts and blue blood?",
+        "category": "Nature",
+        "difficulty": "Medium",
+        "options": ["Jellyfish", "Octopus", "Seahorse", "Great White Shark"],
+        "answer": "Octopus",
+        "explanation": "Octopuses have three hearts and use copper-based hemocyanin to transport oxygen, giving their blood a blue color."
+    },
+    {
+        "id": 168,
+        "question": "What is the square root of 144?",
+        "category": "Mathematics",
+        "difficulty": "Easy",
+        "options": ["10", "11", "12", "14"],
+        "answer": "12",
+        "explanation": "12 × 12 = 144."
+    },
+    {
+        "id": 169,
+        "question": "What is the term for a quantum computer's fundamental unit of information?",
+        "category": "Technology",
+        "difficulty": "Medium",
+        "options": ["Byte", "Qubit", "Transistor", "Phasor"],
+        "answer": "Qubit",
+        "explanation": "A qubit (quantum bit) can exist in superpositions of 0 and 1, enabling quantum parallelism."
+    },
+    {
+        "id": 170,
+        "question": "Who directed the legendary 1994 film 'Pulp Fiction'?",
+        "category": "Entertainment",
+        "difficulty": "Easy",
+        "options": ["Steven Spielberg", "Quentin Tarantino", "Martin Scorsese", "Christopher Nolan"],
+        "answer": "Quentin Tarantino",
+        "explanation": "Quentin Tarantino wrote and directed the groundbreaking neo-noir crime film 'Pulp Fiction'."
+    }
+]
